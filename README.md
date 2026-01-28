@@ -17,13 +17,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 Engineering Activity (Real-Time)
-![Scott's Stats](https://github-readme-stats.vercel.app/api?username=ScottT2-spec_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottT2-speccompact&theme=tokyonight)
+![Scott's Stats](https://github-readme-stats.vercel.app/api?username=ScottT2-spec&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottT2-spec&layout=compact&theme=tokyonight)
+
 
 ---
 
 ### 📺 Project Demonstrations
-[![Watch My Robotics Demo](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)(https://youtube.com/@alphaglobal_minds?si=djzk8jgMmmXM-4WN) 
+[![Watch My Robotics Demo][![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@alphaglobal_minds)
+(https://youtube.com/@alphaglobal_minds?si=djzk8jgMmmXM-4WN) 
 
 ---
 📍 Ghana** | Africa
