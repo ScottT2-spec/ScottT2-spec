@@ -1,5 +1,5 @@
 # 🚀 Scott Antwi | Autonomous Systems & AI Engineering 
-**President of Robotics & IT | Vice President of Cybersecurity | Adisadel College**
+*Robotics & IT | Cybersecurity |
 
 > "Engineering localized autonomous solutions to global environmental challenges through sensor-fusion and low-latency logic."
 
@@ -26,4 +26,4 @@
 [![Watch My Robotics Demo](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)(https://youtube.com/@alphaglobal_minds?si=djzk8jgMmmXM-4WN) 
 
 ---
-📍 **Techiman, Ghana** | 🎓 **Future MBZUAI '30**
+📍 Ghana** | Africa
