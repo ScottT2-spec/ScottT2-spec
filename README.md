@@ -112,4 +112,4 @@ Building a "Recursive Mind" one page at a time.
 [YouTube](https://youtube.com/@alphaglobal_minds?si=SdoQUMLoSd6O9Lta)
 
 **"You can achieve anything that you can imagine. Seriously."** — Building intentional **AI GLOBALLY**. 🧱✨
-**"Overthinking professionally 🧠
+Overthinking professionally 🧠
