@@ -36,7 +36,7 @@ I am a student passionate about AI, robotics, and technology innovation. I enjoy
 ---
 
 ## 📊 GitHub Stats
-![Scott's GitHub Stats]https://github-readme-stats.vercel.app/api?username=ScottT2-spec&show_icons=true&theme=radical
+![Scott's GitHub Stats]![Scott's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScottT2-spec&show_icons=true&theme=radical)
 
 ---
 
