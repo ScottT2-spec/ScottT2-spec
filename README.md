@@ -107,7 +107,7 @@ Building a "Recursive Mind" one page at a time.
 
 ## 🔗👍🏽 Connect with ScottT2-spec
 <p align="center">
-  <img src="https://github.com/ScottT2-spec/ScottT2-spec/blob/main/waving.gif" width="300" alt="Hello GIF" />
+  <img src="https://img.buzzfeed.com/buzzfeed-static/static/2020-07/15/0/asset/5b3c236c2b32/anigif_sub-buzz-8183-1594774797-1.gif?output-format=auto&output-quality=auto&downsize=360%3A%2A" width="300" alt="Connect Vibe" />
 </p>
 | [Instagram](https://instagram.com/bb_scott1) | [YouTube](https://youtube.com/@alphaglobal_minds?si=5QTAs__wnWNZfxWa)
 
