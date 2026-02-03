@@ -9,14 +9,15 @@ I am a student passionate about AI, robotics, and technology innovation. I enjoy
 ## 🔧 Skills & Interests
 - Robotics & Arduino
 - Artificial Intelligence & Machine Learning
-- Python & SQL programming
+- Python, SQL & C++ programming
 - STEM mentorship and collaboration
 - Open-source contribution
 
 ### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
 ---
 
@@ -35,26 +36,79 @@ I am a student passionate about AI, robotics, and technology innovation. I enjoy
 
 ---
 
-## 📊 GitHub Stats
-![Scott's GitHub Stats]![Scott's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScottT2-spec&show_icons=true&theme=radical)
+## 📚 Recursive Mind Library
+Building a "Recursive Mind" one page at a time.
+
+<table>
+  <tr>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/Status-Reading-brightgreen?style=flat-square" /><br/>
+      <img src="https://m.media-amazon.com/images/I/91Ey0+6N-LL._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
+      <b>Da Vinci</b>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/Status-Reading-brightgreen?style=flat-square" /><br/>
+      <img src="https://m.media-amazon.com/images/I/61qYKhU5hWL._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
+      <b>Adweek</b>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/Status-Reading-brightgreen?style=flat-square" /><br/>
+      <img src="https://m.media-amazon.com/images/I/71WMnKx5xCL.jpg" width="100" height="150" /><br/>
+      <b>Squibb</b>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/Status-Queue-blue?style=flat-square" /><br/>
+      <img src="https://m.media-amazon.com/images/I/51VFkbM2siL.jpg" width="100" height="150" /><br/>
+      <b>Naval</b>
+    </td>
+    <td width="20%" align="center">
+      <!-- Empty slot for consistent 5x grid -->
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
+      <img src="https://m.media-amazon.com/images/I/61EYrVHLluL._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
+      <b>Hesse</b>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
+      <img src="https://www.hachettebookgroup.com/wp-content/uploads/2024/01/9780316471909.jpg" width="100" height="150" /><br/>
+      <b>Utopia</b>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
+      <img src="https://m.media-amazon.com/images/I/81P+UUKWAXL._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
+      <b>Go-Giver</b>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
+      <img src="https://m.media-amazon.com/images/I/71+2-t7M35L._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
+      <b>Alchemist</b>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://m.media-amazon.com/images/I/81vRKV9N1tL.jpg" width="100" height="150" /><br/>
+      <b>Show Work</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Contact
-- Location: Ghana 🌍  
-- [YouTube](https://youtube.com/@alphaglobal_minds?si=S5gjklrXKQDQkpVp)
+## 📊 Analytics
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ScottT2-spec&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ScottT2-spec&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ScottT2-spec&layout=compact&theme=tokyonight" />
+</p>
 
-<!--
-**ScottT2-spec/ScottT2-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌸 Connect with ScottT2-spec
+<p align="center">
+  <img src="https://img.buzzfeed.com/buzzfeed-static/static/2020-07/15/0/asset/5b3c236c2b32/anigif_sub-buzz-8183-1594774797-1.gif?output-format=auto&output-quality=auto&downsize=360%3A%2A" width="300" alt="Connect Vibe" />
+</p>
+| [Instagram](https://instagram.com/bb_scott1) | [YouTube](https://youtube.com/@alphaglobal_minds?si=5QTAs__wnWNZfxWa)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**"You can achieve anything that you can imagine. Seriously."** — Building intentional **AI GLOBALLY**. 🧱✨
