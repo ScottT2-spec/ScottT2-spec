@@ -121,6 +121,7 @@ Building a "Recursive Mind" one page at a time.
 <a href="https://www.snapchat.com/add/bbscott1" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/en/c/c4/Snapchat_logo.svg" width="42" alt="Snapchat"/>
 </a>
+
 **"You can achieve anything that you can imagine. Seriously."** — Building intentional **AI GLOBALLY**. 🧱✨
 Overthinking professionally 🧠
 
