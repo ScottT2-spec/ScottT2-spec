@@ -9,7 +9,6 @@ I am a student passionate about AI, robotics, and technology innovation. I enjoy
 ## 🔧 Skills & Interests
 - Robotics & Arduino
 - Artificial Intelligence & Machine Learning
-- Python, SQL & C++ programming
 - STEM mentorship and collaboration
 - Open-source contribution
 
