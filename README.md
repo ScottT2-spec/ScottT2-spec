@@ -1,6 +1,6 @@
 ### Hi, I'm Scott👋
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="250" alt="Hello gif"/>
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="520" alt="anime hello gif"/>
 </p>
 
 ## More About Me🧐
