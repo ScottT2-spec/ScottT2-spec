@@ -106,7 +106,7 @@ Building a "Recursive Mind" one page at a time.
 
 ## 🔗👍🏽 Connect with ScottT2-spec
 <p align="center">
-  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="300" alt="Connect Vibe" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="520" alt="let's connect gif"/>
 </p>
   <a href="https://www.youtube.com/@AlphaGloba_minds" target="_blank" title="YouTube">
     <img src="https://img.icons8.com/ios-filled/50/FF0000/youtube-play.png" width="35" alt="YouTube"/>
