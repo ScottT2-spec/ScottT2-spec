@@ -109,7 +109,9 @@ Building a "Recursive Mind" one page at a time.
 <p align="center">
   <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="300" alt="Connect Vibe" />
 </p>
-[YouTube](https://youtube.com/@alphaglobal_minds?si=SdoQUMLoSd6O9Lta)
+  <a href="https://www.youtube.com/@AlphaGloba_minds" target="_blank" title="YouTube">
+    <img src="https://img.icons8.com/ios-filled/50/FF0000/youtube-play.png" width="35" alt="YouTube"/>
+  </a>&nbsp;&nbsp;
 
 **"You can achieve anything that you can imagine. Seriously."** — Building intentional **AI GLOBALLY**. 🧱✨
 Overthinking professionally 🧠
