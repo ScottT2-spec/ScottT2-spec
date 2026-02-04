@@ -104,7 +104,7 @@ Building a "Recursive Mind" one page at a time.
 
 ---
 
-## 🔗👍🏽 Connect with ScottT2-spec
+## 🔗👍🏽 Connect with Scott
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="520" alt="let's connect gif"/>
 </p>
