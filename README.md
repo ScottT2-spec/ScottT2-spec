@@ -3,8 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="250" alt="Hello gif"/>
 </p>
 
-##More About Me🧐
-I’m a student innovator,passionate about using **AI, robotics, and cybersecurity** to solve real problems and empower young people through access to quality STEM education
+## More About Me🧐
+- I’m a student innovator,passionate about using **AI, robotics, and cybersecurity** to solve real problems and empower young people through access to quality STEM education
 
 ## 🔧 Skills & Interests
 - Robotics & Arduino
