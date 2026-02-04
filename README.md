@@ -1,16 +1,7 @@
-<h1 align="center">
-   Scott
-</h1>
-
+### Hi, I'm Scott👋
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=JLW-7&label=Profile%20Views" alt="Profile Views" /> &nbsp; <a href="https://wakatime.com/@7f65ebb6-69fc-446c-bc81-660e7fd90d42">      <img src="https://wakatime.com/badge/user/7f65ebb6-69fc-446c-bc81-660e7fd90d42.svg" alt="Total time coded since Mar 18 2025" /></a> &nbsp; <img src="https://img.shields.io/github/stars/JLW-7" alt="Total Stars" /><br><br>
-
-**AI & Robotics Enthusiast → STEM Mentor → Open-Source Contributor**
-
-I am a student passionate about AI, robotics, and technology innovation. I enjoy building hands-on projects and contributing to initiatives that empower peers in STEM and emerging tech.
-
----
-
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="250" alt="Hello gif"/>
+</p>
 ## 🔧 Skills & Interests
 - Robotics & Arduino
 - Artificial Intelligence & Machine Learning
