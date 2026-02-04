@@ -66,22 +66,22 @@ Building a "Recursive Mind" one page at a time.
   </tr>
   <tr>
     <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Status-Reading-pink?style=flat-square" /><br/>
       <img src="https://m.media-amazon.com/images/I/61EYrVHLluL._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
       <b>Hesse</b>
     </td>
     <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Status-Reading-pink?style=flat-square" /><br/>
       <img src="https://www.hachettebookgroup.com/wp-content/uploads/2024/01/9780316471909.jpg" width="100" height="150" /><br/>
       <b>Utopia</b>
     </td>
     <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Status-Reading-pink?style=flat-square" /><br/>
       <img src="https://m.media-amazon.com/images/I/81P+UUKWAXL._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
       <b>Go-Giver</b>
     </td>
     <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Status-Reading-pink?style=flat-square" /><br/>
       <img src="https://m.media-amazon.com/images/I/71+2-t7M35L._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
       <b>Alchemist</b>
     </td>
