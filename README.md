@@ -114,3 +114,7 @@ Building a "Recursive Mind" one page at a time.
 
 **"You can achieve anything that you can imagine. Seriously."** — Building intentional **AI GLOBALLY**. 🧱✨
 Overthinking professionally 🧠
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="coding gif"/>
+</p>
