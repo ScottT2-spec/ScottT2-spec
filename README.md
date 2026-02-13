@@ -4,44 +4,53 @@
 
 # Hey, I'm Scott 👋
 
-High school student from Ghana. Into AI, robotics, and building things that actually help people.
+17-year-old AI builder from Ghana. Into AI engineering, robotics, and building things that actually help people.
 
-I build on my phone. No laptop. Google Colab and determination.
+I build on my phone. No laptop. Google Colab, Kaggle, and determination.
 
 ## What I've built
 
-🧠 **[Neural Network from Scratch](https://github.com/ScottT2-spec/mnist-neural-network-)** — Handwritten digit recognizer using only Python and NumPy. No frameworks. 96% accuracy. Competed on [Kaggle](https://kaggle.com/scottantwi).
+🦟 **[Malaria Cell Detection](https://github.com/ScottT2-spec/malaria-cell-detection)** — CNN that detects malaria-infected blood cells from microscope images. 95.43% accuracy on 27,558 NIH images. Real-world medical AI.
 
-🎓 **[ScholarFinder Bot](https://github.com/ScottT2-spec/scholar-finder-bot)** — Telegram bot helping students find 50+ fully-funded scholarships worldwide. Try it: [@ScholarFinder_bot](https://t.me/ScholarFinder_bot)
+🧠 **[Neural Network from Scratch](https://github.com/ScottT2-spec/mnist-neural-network-)** — Handwritten digit recognizer using only Python and NumPy. No frameworks. 96% accuracy. [Kaggle profile →](https://kaggle.com/scottantwi)
+
+🎓 **[ScholarFinder](https://github.com/ScottT2-spec/scholar-finder-bot)** — Student guidance platform with 485 scholarships, 86 universities, 138 opportunities. Telegram bot + [live website](https://scholarfinder.pythonanywhere.com). Essay rater, resume review, visa guides, cost of living comparison.
 
 🔍 **[Grid Pathfinder](https://github.com/ScottT2-spec/grid-pathfinder)** — BFS, DFS, and A* search algorithms visualized in Python.
 
 🤖 **[VEX Line Follower](https://github.com/ScottT2-spec/vex-autonomous-line-follower)** — Autonomous robot with IR sensors and PID control in C++.
 
-## Tools I actually use
+## Tech I use
 
+<p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python"/>
 &nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" height="40" alt="TensorFlow"/>
+&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40" alt="C++"/>
+&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40" height="40" alt="NumPy"/>
 &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" height="40" alt="HTML"/>
 &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="40" height="40" alt="CSS"/>
 &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="40" height="40" alt="Git"/>
+</p>
 
 ## Currently learning
 
-- CS50AI (Harvard via edX) — search, optimization, neural networks
-- Stanford Code in Place — Python fundamentals
-- NVIDIA Deep Learning Institute — GPU-accelerated deep learning
+- 🎓 CS50AI (Harvard via edX) — search, optimization, neural networks
+- 🐍 Stanford Code in Place — Python fundamentals
+- 🖥️ NVIDIA Deep Learning Institute — GPU-accelerated deep learning
 
 ## About me
 
 - Founded **Alpha Global Minds** — STEM resources for 290+ students across 16 regions in Ghana
-- President of Robotics, IT, and Cybersecurity clubs
+- President of Robotics, IT, and Cybersecurity clubs (95+ members)
 - NSMQ National Quarter-finalist (among 174 schools)
-- Best Mathematics Student — 2 consecutive years
+- Best Mathematics Student — 2 consecutive years among 1000+ students
+- Overall Best STEM Student
 
 ## 📚 What I'm reading
 
@@ -78,22 +87,16 @@ I build on my phone. No laptop. Google Colab and determination.
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ScottT2-spec&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ScottT2-spec&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ScottT2-spec&layout=compact&theme=tokyonight" />
 </p>
 
-## Let's connect
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ScottT2-spec&theme=tokyonight" />
+</p>
 
-<a href="https://www.youtube.com/@AlphaGloba_minds" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/FF0000/youtube-play.png" width="35" alt="YouTube"/>
-</a>
-<a href="https://instagram.com/bb_scott1" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="42" alt="Instagram"/>
-</a>
-<a href="https://t.me/ScholarFinder_bot" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="42" alt="Telegram"/>
-</a>
-<a href="https://kaggle.com/scottantwi" target="_blank">
-  <img src="https://www.kaggle.com/static/images/site-logo.svg" width="42" alt="Kaggle"/>
-</a>
+---
+
+<p align="center">
+  <a href="https://kaggle.com/scottantwi">Kaggle</a> · 
+  <a href="https://scholarfinder.pythonanywhere.com">ScholarFinder</a> · 
+  <a href="https://t.me/ScholarFinder_bot">Telegram Bot</a>
+</p>
