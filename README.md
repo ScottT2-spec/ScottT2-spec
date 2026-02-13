@@ -41,7 +41,6 @@ I build on my phone. No laptop. Google Colab, Kaggle, and determination.
 ## Currently learning
 
 - 🎓 CS50AI (Harvard via edX) — search, optimization, neural networks
-- 🐍 Stanford Code in Place — Python fundamentals
 - 🖥️ NVIDIA Deep Learning Institute — GPU-accelerated deep learning
 
 ## About me
