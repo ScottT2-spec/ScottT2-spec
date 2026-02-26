@@ -14,6 +14,8 @@ I build on my phone. No laptop. Google Colab, Kaggle, and determination.
 
 🧠 **[Neural Network from Scratch](https://github.com/ScottT2-spec/mnist-neural-network-)** — Digit recognizer built two ways: from scratch with NumPy (96%) and a CNN ensemble for Kaggle (99.685% accuracy). [Kaggle profile →](https://kaggle.com/scottantwi)
 
+📲 **[alpha-productivity]
+(https://github.com/ScottT2-spec/alpha-productivity)** -An AI-powered productivity web app that helps you manage tasks, build habits, track goals, and stay focused — with a built-in AI assistant that gives you real-time suggestions based on your data.
 🎓 **[ScholarFinder](https://github.com/ScottT2-spec/scholar-finder-bot)** — Student guidance platform with 485 scholarships, 184 universities, 138 opportunities. Telegram bot + [live website](https://scholarfinder.pythonanywhere.com). Essay help, visa guides, cost of living comparison.
 
 🔍 **[Grid Pathfinder](https://github.com/ScottT2-spec/grid-pathfinder)** — BFS, DFS, and A* search algorithms visualized in Python.
@@ -98,4 +100,6 @@ Building ideas from Africa with a global vision.
   <a href="https://kaggle.com/scottantwi">Kaggle</a> · 
   <a href="https://scholarfinder.pythonanywhere.com">ScholarFinder</a> · 
   <a href="https://t.me/ScholarFinder_bot">Telegram Bot</a>
+  <a
+href="https://drivendata.com/scott123">DrivenData</a>
 </p>
