@@ -101,5 +101,5 @@ Building ideas from Africa with a global vision.
   <a href="https://scholarfinder.pythonanywhere.com">ScholarFinder</a> · 
   <a href="https://t.me/ScholarFinder_bot">Telegram Bot</a>
   <a
-href=(https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/leaderboard/)> DengAI competition</a>
+href=(https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/leaderboard/)>DengAI competition</a>
 </p>
