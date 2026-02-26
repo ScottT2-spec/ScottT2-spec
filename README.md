@@ -41,11 +41,11 @@ I build on my phone. No laptop. Google Colab, Kaggle, and determination.
 ## Currently learning
 
 - 🎓 CS50AI (Harvard via edX) — search, optimization, neural networks
-- 🖥️ NVIDIA Deep Learning Institute — GPU-accelerated deep learning
 
 ## About me
 
-- Founded **Alpha Global Minds** — STEM resources for 290+ students across 16 regions in Ghana
+- Founded **Alpha Global Minds** - A growing brand focused on innovation, technology, and entrepreneurship.
+Building ideas from Africa with a global vision.
 - President of Robotics, IT, and Cybersecurity clubs (95+ members)
 - NSMQ National Quarter-finalist (among 174 schools)
 - Best Mathematics Student — 2 consecutive years among 1000+ students
